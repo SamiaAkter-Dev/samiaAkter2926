@@ -97,7 +97,7 @@ Interactive web experiences
 
 ##  MY GITHUB WORLD
 
-<img width="80%" src="https://streak-stats.demolab.com?user=samiaAkter2926&hide_border=true&background=0b0f19&ring=ec4899&fire=a855f7&currStreakLabel=ec4899&sideLabels=a855f7&currStreakNum=ffffff&sideNums=ffffff&dates=94a3b8"/>
+<img width="80%" src="https://streak-stats.demolab.com?user=SamiaAkter-Dev&hide_border=true&background=0b0f19&ring=ec4899&fire=a855f7&currStreakLabel=ec4899&sideLabels=a855f7&currStreakNum=ffffff&sideNums=ffffff&dates=94a3b8"/>
 
 </div>
 
